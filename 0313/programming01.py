@@ -1,0 +1,11 @@
+x=int(input("x="))
+y=int(input("y="))
+
+print(f"x: {x}")
+print(f"y: {y}")
+print(f"두수의 합: {x+y}")
+print(f"두수의 차: {x-y}")
+print(f"두수의 곱: {x*y}")
+print(f"두수의 평균: {(x+y)/2}")
+print(f"큰수: {max(x,y)}")
+print(f"작은수: {min(x,y)}")
